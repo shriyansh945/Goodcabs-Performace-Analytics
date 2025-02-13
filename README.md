@@ -95,3 +95,28 @@ By leveraging these insights, GoodCabs can scale its operations while upholding 
   Ad-Hoc Business Requests
 </h2>
 
+### 1. City-Level Fare and Trip Summary  
+
+Read the [Query-1 here](https://github.com/1.sql).  
+
+<img src="https://github.com/user-attachments/assets/0c864ad4-3e63-407b-b9a6-86b64195a532" width="70%">  
+
+- Jaipur records the highest average fare per trip at ₹483.92, while Indore has the lowest at ₹179.84. Mysore charges the most per km at ₹15.14, whereas Surat offers the most economical fare at ₹10.66 per km. The top three cities—Jaipur, Lucknow, and Kochi—contribute 45.1% of total trips, whereas Mysore has the lowest share at 3.81%.  
+
+### 2. Monthly City-Level Trips vs. Target Performance  
+
+Read the [Query-2 here](https://github.com/l).  
+
+<img src="https://github.com/user-attachments/assets/843e60bc-5adf-4034-84bf-646d038b6df8" width="70%">  
+
+- Mysore outperformed targets by +33% in February, followed by Jaipur in February and Kochi in March. On the lower end, Vadodara fell short by -28% in June, while Lucknow and Indore both lagged by -16% in January and June, respectively.  
+
+### 3. Repeat Passenger Trip Frequency by City  
+
+Read the [Query-3 here](https://github.com/g.sql).  
+
+<img src="https://github.com/user-attachments/assets/6ccff61b-9dff-408b-a2d1-bcd6161abb5a" width="70%">  
+
+- Visakhapatnam, Jaipur, and Mysore exhibit strong passenger retention, with nearly 50% of users taking at least 2 repeat trips before the frequency drops sharply. In contrast, Lucknow, Coimbatore, Vadodara, and Surat display a steady increase in repeat trip frequency up to 6 trips, indicating varied customer engagement patterns. This analysis helps identify cities with high passenger loyalty and sustained usage trends.  
+
+
