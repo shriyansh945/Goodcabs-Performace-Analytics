@@ -45,13 +45,13 @@ By leveraging these insights, GoodCabs can scale its operations while upholding 
 
 ### 2. Average Fare per Trip by City  
 
-<img src="">  
+<img src="https://github.com/user-attachments/assets/e5e9b1cc-47d7-4c87-866d-2ae80fb6ceda" width="50%"> 
 
 - Jaipur records the highest average fare at ₹484 for a 30 km trip, while Surat has the lowest at ₹117 for an 11 km ride. Similarly, Vadodara's fare closely aligns with Surat at ₹119 for a 12 km journey.  
 - **On a per-kilometer basis, Jaipur's fare is ₹16, whereas Surat offers a more budget-friendly rate of ₹11.**  
 
 ### 3. Average Ratings by City and Passenger Type  
 
-<img src="">  
+<img src="https://github.com/user-attachments/assets/bec47bb8-0a49-452f-8817-7140d0cf0037" width="85%">  
 
-- Kochi, Jaipur, and Mysore achieve the highest ratings, averaging 8.98 from both new and repeat passengers. Conversely, Surat, Vadodara, and Lucknow receive the lowest scores, dropping to 5.99 for both drivers and passengers.  
+- Kochi, Jaipur, and Mysore achieve the highest ratings, averaging 8.98 from both new and repeat passengers. On the contrary, Surat, Vadodara, and Lucknow receive the lowest scores, dropping to 5.99 for both drivers and passengers.  
