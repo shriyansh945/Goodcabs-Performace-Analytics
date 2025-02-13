@@ -147,12 +147,11 @@ Read the [Query-6.1 here](https://github.B6.1.sql).
 
 ###  Key Factors Affecting Repeat Passenger Rates  
 
-- **Service Quality:** Cities like **Surat (42.63%)** and **Lucknow (37.12%)** show strong passenger retention due to reliable services, whereas **Jaipur (17.43%)** and **Mysore (11.23%)** struggle with lower retention, indicating service-related challenges.  
+- **Service Quality:** Cities like **Surat (42%)** and **Lucknow (37%)** show strong passenger retention due to reliable services, whereas **Jaipur (17%)** and **Mysore (11%)** struggle with lower retention, indicating service-related challenges.  
 - **Pricing Impact:** Lower fares in **Surat (₹11/km)** and **Vadodara (₹12/km)** align with higher repeat rates, while **Jaipur’s premium rate of ₹16/km** may discourage frequent usage.  
 - **Demographics Influence:** Business hubs like **Surat and Indore** exhibit steady repeat usage, while tourism-driven cities like **Jaipur and Mysore** experience fluctuations based on peak travel seasons.  
 - **Economic Factors:** Cities with higher income levels, such as **Jaipur**, see seasonal surges in repeat passengers, whereas dependence on public transport reduces repeat engagement in **Mysore and Coimbatore**.  
-- **Seasonal Trends:** The highest repeat rates are recorded in **February, May, and April**, with declines observed in **June and January**, especially in **Jaipur and Kochi**.  
-- **Loyalty Incentives:** Competitive markets like **Surat** benefit from reward programs that enhance passenger retention.  
+- **Seasonal Trends:** The highest repeat rates are recorded in **February, May, and April**, with declines observed in **June and January**, especially in **Jaipur and Kochi**.   
 
   
 ## Contact
