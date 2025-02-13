@@ -27,3 +27,13 @@ This project aims to generate actionable insights that align with GoodCabs' stra
 
 By leveraging these insights, GoodCabs can scale its operations while upholding its mission to empower local drivers and deliver high-quality service.  
 </div>
+
+<h2 align="center">
+  Model View
+</h2>
+
+![Image](https://github.com/user-attachments/assets/cf4c2274-2418-4301-bee6-208802b162e6)
+
+<h2 align="center">
+  Primary Analysis
+</h2>
