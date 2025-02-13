@@ -65,21 +65,33 @@ By leveraging these insights, GoodCabs can scale its operations while upholding 
 
 ### 5. Weekend vs. Weekday Trip Demand by City
 
-<img src="https://github.com/user-attachments/assets/cb7f09a3-39c7-4f35-bd94-e6bfc8dc1fd8" width="80%">
+<img src="https://github.com/user-attachments/assets/cb7f09a3-39c7-4f35-bd94-e6bfc8dc1fd8" width="70%">
 
 - Weekdays were more active in Lucknow, Surat, and Jaipur, while Mysore, Coimbatore, and Visakhapatnam recorded fewer trips.
 - On weekends, demand peaked in Jaipur, Kochi, and Surat, whereas Mysore, Coimbatore, and Visakhapatnam trailed behind. This highlights a distinct preference for weekdays in some cities and weekends in others.
 
 ### 6. Repeat Passenger Frequency & City Contribution Analysis
 
-<img src="https://github.com/user-attachments/assets/18547164-5a72-4507-95cd-b7a066c6a588" width ="75%">
+<img src="https://github.com/user-attachments/assets/18547164-5a72-4507-95cd-b7a066c6a588" width ="65%">
 
 - In Visakhapatnam, Jaipur, and Mysore, repeat passengers primarily take 2 trips, accounting for around 50%, with a significant drop in frequency beyond that.
 - On the other hand, Lucknow, Coimbatore, Vadodara, and Surat exhibit a growing trend, with repeat trip frequency steadily rising and peaking at 6 trips, highlighting contrasting patterns in travel behavior.
 
 ### 7. Monthly Target Achievement Analysis for Key Metrics
 
-<img src="https://github.com/user-attachments/assets/2fbab085-bca4-4e40-b448-22be30710e95" width="80%" height="115%">
+<img src="https://github.com/user-attachments/assets/2fbab085-bca4-4e40-b448-22be30710e95" width="70%" height="115%">
 
 - Business cities typically met their target for new passengers but faced challenges in achieving trip and rating goals.
-- In contrast, tourism cities like Jaipur, Kochi, and Mysore excelled in meeting trip and rating targets but fell short in attracting new passengers. Chandigarh and Visakhapatnam, however, missed all targets across trips, new passengers, and ratings, revealing a significant performance gap.  
+- In contrast, tourism cities like Jaipur, Kochi, and Mysore excelled in meeting trip and rating targets but fell short in attracting new passengers. Chandigarh and Visakhapatnam, however, missed all targets across trips, new passengers, and ratings, revealing a significant performance gap.
+
+- ### 8. Cities with Highest and Lowest Repeat Passenger Rate (RPR%) by Month  
+
+<img src="https://github.com/user-attachments/assets/b508f43e-2ea9-470b-bd68-03f3104dd98a" width="60%">  
+
+- The Repeat Passenger Rate (RPR%) showed a steady upward trend from January, reaching its peak in May before experiencing a slight decline in June. Notably, Visakhapatnam deviated from this pattern, exhibiting a sharp rise in April followed by a drop.  
+- Surat and Lucknow recorded the highest RPR at 42.63% and 37.12%, respectively, whereas Jaipur and Mysore had the lowest at 17.43% and 11.23%.  
+
+<h2 align="center">
+  Ad-Hoc Business Requests
+</h2>
+
