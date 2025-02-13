@@ -131,9 +131,104 @@ Read the [Query-4 here](https://github.comB4.sql).
 
 Read the [Query-5 here](https://github.csql).  
 
-<img src="https://github.com/user-attachments/assets/87c89422-a678-456c-bbf8-679c5e72512a" width="68%">  
+<img src="https://github.com/user-attachments/assets/5d7bac13-cc07-47cb-92a2-80a363efdd5e" width="68%">  
 
 - The analysis highlights the highest revenue month for each city. **Jaipur peaks at ₹7.75 million in February (21%)**, alongside Kochi, Chandigarh, and Lucknow. Visakhapatnam, Surat, Vadodara, and Coimbatore see revenue highs in April, while Indore, Mysore, and Kochi reach their maximum earnings in May.  
 
+### Repeat Passenger Rate Analysis
 
+#### 6.1 Monthly Repeat Passenger Rate
+
+Read the [Query-6.1 here](https://github.B6.1.sql).
+
+<img src="https://github.com/user-attachments/assets/7bacea47-9b32-4196-9e9a-e44d58ec7e19" width="70%">
+
+- Surat and Lucknow lead with the highest repeat passenger rates, showing strong customer loyalty. Indore, Kochi, and Visakhapatnam demonstrate consistent increases in repeat passenger rates, indicating growing retention. Mysore and Jaipur have lower repeat passenger rates, suggesting lower customer retention. Repeat rates generally rise from April to May, with May showing the highest rates across several cities, pointing to potential seasonal trends.
+
+- ## Further Analysis & Recommendations  
+
+### 1. Key Factors Affecting Repeat Passenger Rates  
+
+- **Service Quality:** Cities like **Surat (42.63%)** and **Lucknow (37.12%)** show strong passenger retention due to reliable services, whereas **Jaipur (17.43%)** and **Mysore (11.23%)** struggle with lower retention, indicating service-related challenges.  
+- **Pricing Impact:** Lower fares in **Surat (₹11/km)** and **Vadodara (₹12/km)** align with higher repeat rates, while **Jaipur’s premium rate of ₹16/km** may discourage frequent usage.  
+- **Demographics Influence:** Business hubs like **Surat and Indore** exhibit steady repeat usage, while tourism-driven cities like **Jaipur and Mysore** experience fluctuations based on peak travel seasons.  
+- **Economic Factors:** Cities with higher income levels, such as **Jaipur**, see seasonal surges in repeat passengers, whereas dependence on public transport reduces repeat engagement in **Mysore and Coimbatore**.  
+- **Seasonal Trends:** The highest repeat rates are recorded in **February, May, and April**, with declines observed in **June and January**, especially in **Jaipur and Kochi**.  
+- **Loyalty Incentives:** Competitive markets like **Surat** benefit from reward programs that enhance passenger retention.  
+
+### 2. Impact of Tourism vs. Business Travel  
+
+#### **Tourism-Focused Cities**  
+- **Jaipur:**  
+  - **January:** Jaipur Literature Festival drives higher trip demand.  
+  - **March/April:** Holi festivities increase ride bookings.  
+- **Kochi:**  
+  - **January:** The Kochi-Muziris Biennale attracts international tourists, raising demand for transport.  
+  - **April:** Easter-related travel spikes bookings for religious and cultural sites.  
+- **Mysore:**  
+  - **March/April:** Festivals like Holi and early Dasara preparations result in higher travel activity.  
+- **Chandigarh:**  
+  - **April/May:** Baisakhi celebrations and cultural events boost transport demand.  
+- **Visakhapatnam:**  
+  - **April/May:** Summer holidays lead to increased beach tourism and local travel.  
+
+#### **Business-Focused Cities**  
+- **Indore:**  
+  - **January:** Industry conferences and trade fairs contribute to a rise in business travel.  
+  - **March:** Holi celebrations influence travel for business and family visits.  
+- **Coimbatore:**  
+  - **January/February:** Coimbatore Vizha attracts professionals and tourists, increasing rides.  
+- **Vadodara:**  
+  - **March/April:** Holi and industry events lead to higher ride demand.  
+- **Surat:**  
+  - **January/February:** Textile and business exhibitions result in slight demand growth.  
+- **Lucknow:**  
+  - **February/March:** Corporate events, cultural gatherings, and Holi celebrations impact weekday ride volumes.  
+
+### 3. Adapting to Emerging Mobility Trends  
+
+With the growing adoption of **electric vehicles (EVs)** in tier-2 cities, fueled by government incentives and sustainability efforts, GoodCabs has the opportunity to integrate eco-friendly services.  
+
+#### **Benefits of EV Adoption for GoodCabs:**  
+- **Market Differentiation:** Strengthens brand identity with green initiatives.  
+- **Operational Savings:** Lowers fuel and maintenance expenses.  
+- **Government Support:** Access to financial incentives for fleet expansion.  
+- **Customer Loyalty:** Attracts environmentally conscious passengers.  
+
+### 4. Strategic Partnerships for Growth  
+
+- **Tourism Cities (Jaipur, Kochi):** Collaborate with hotels and attractions to offer travel packages.  
+- **Business Hubs (Surat, Indore):** Establish corporate tie-ups to increase weekday bookings.  
+- **Event Partnerships:** Partner with high-traffic venues like malls and convention centers for targeted promotions.  
+- **Loyalty Programs:** Introduce joint offers with local businesses to enhance rider retention.  
+
+### 5. Enhancing Data Collection for Smarter Decisions  
+
+- **Passenger Demographics:** Refine service offerings based on rider profiles.  
+- **Trip Behavior Insights:** Optimize pricing and operational strategies.  
+- **Customer Feedback Analysis:** Improve overall service quality.  
+- **Fleet Utilization Efficiency:** Reduce idle time and enhance resource allocation.  
+- **Market Trend Monitoring:** Stay ahead of industry shifts with real-time data analysis.  
+- **Loyalty Program Effectiveness:** Track customer engagement with reward initiatives.  
+
+## Final Note: End-of-Year Growth Targets  
+
+- **Increase Repeat Passenger Rate (RPR%)**  
+  - **Goal:** Achieve a **5% increase in RPR%** for Jaipur and Mysore.  
+  - **Strategy:** Strengthen service reliability and expand loyalty initiatives.  
+
+- **Boost Marketing Effectiveness**  
+  - **Goal:** Drive a **10% demand increase** in tourist-heavy cities like Jaipur and Kochi during peak festivals.  
+  - **Strategy:** Launch targeted marketing campaigns and collaborate with local event organizers.  
+
+- **Expand Electric Vehicle (EV) Fleet**  
+  - **Goal:** Ensure **10% of fleet vehicles** in tier-2 cities are electric by year-end.  
+  - **Strategy:** Pilot sustainable transport solutions in Surat and Vadodara, leveraging government incentives.  
+
+- **Build High-Value Partnerships**  
+  - **Goal:** Secure **five new partnerships** with hotels, resorts, and event organizers.  
+  - **Strategy:** Develop bundled ride packages to cater to tourist and corporate travel demands.  
+## Contact
+
+Author: www.linkedin.com/in/shriyansh945
 
