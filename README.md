@@ -37,3 +37,21 @@ By leveraging these insights, GoodCabs can scale its operations while upholding 
 <h2 align="center">
   Primary Analysis
 </h2>
+### 1. Top and Bottom Performing Cities  
+
+![Image](https://github.com/user-attachments/assets/9434a601-794e-47ce-9daa-d9082f7de988)
+
+- Jaipur, Lucknow, and Surat emerge as the top-performing cities in terms of trip volume, whereas Visakhapatnam, Coimbatore, and Mysore register the lowest trip counts.  
+
+### 2. Average Fare per Trip by City  
+
+<img src="">  
+
+- Jaipur records the highest average fare at ₹484 for a 30 km trip, while Surat has the lowest at ₹117 for an 11 km ride. Similarly, Vadodara's fare closely aligns with Surat at ₹119 for a 12 km journey.  
+- **On a per-kilometer basis, Jaipur's fare is ₹16, whereas Surat offers a more budget-friendly rate of ₹11.**  
+
+### 3. Average Ratings by City and Passenger Type  
+
+<img src="">  
+
+- Kochi, Jaipur, and Mysore achieve the highest ratings, averaging 8.98 from both new and repeat passengers. Conversely, Surat, Vadodara, and Lucknow receive the lowest scores, dropping to 5.99 for both drivers and passengers.  
