@@ -117,6 +117,23 @@ Read the [Query-3 here](https://github.com/g.sql).
 
 <img src="https://github.com/user-attachments/assets/6ccff61b-9dff-408b-a2d1-bcd6161abb5a" width="70%">  
 
-- Visakhapatnam, Jaipur, and Mysore exhibit strong passenger retention, with nearly 50% of users taking at least 2 repeat trips before the frequency drops sharply. In contrast, Lucknow, Coimbatore, Vadodara, and Surat display a steady increase in repeat trip frequency up to 6 trips, indicating varied customer engagement patterns. This analysis helps identify cities with high passenger loyalty and sustained usage trends.  
+- Visakhapatnam, Jaipur, and Mysore exhibit strong passenger retention, with nearly 50% of users taking at least 2 repeat trips before the frequency drops sharply. In contrast, Lucknow, Coimbatore, Vadodara, and Surat display a steady increase in repeat trip frequency up to 6 trips, indicating varied customer engagement patterns. This analysis helps identify cities with high passenger loyalty and sustained usage trends.
+
+- ### 4. Cities with the Highest and Lowest New Passengers  
+
+Read the [Query-4 here](https://github.comB4.sql).  
+
+<img src="https://github.com/user-attachments/assets/e4ebf188-4d07-4a0b-a4dc-5ebb67fdba73" width="48%">  
+
+- Jaipur leads with **45,800 new passengers**, followed by Kochi and Chandigarh in the top three. Conversely, Surat (11,600), Vadodara, and Coimbatore record the lowest numbers, indicating potential growth opportunities in these cities.  
+
+### 5. Peak Revenue Month for Each City  
+
+Read the [Query-5 here](https://github.csql).  
+
+<img src="https://github.com/user-attachments/assets/87c89422-a678-456c-bbf8-679c5e72512a" width="68%">  
+
+- The analysis highlights the highest revenue month for each city. **Jaipur peaks at ₹7.75 million in February (21%)**, alongside Kochi, Chandigarh, and Lucknow. Visakhapatnam, Surat, Vadodara, and Coimbatore see revenue highs in April, while Indore, Mysore, and Kochi reach their maximum earnings in May.  
+
 
 
