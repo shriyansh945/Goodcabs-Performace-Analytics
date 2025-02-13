@@ -40,6 +40,7 @@ By leveraging these insights, GoodCabs can scale its operations while upholding 
 ### 1. Top and Bottom Performing Cities  
 
 <img src="https://github.com/user-attachments/assets/9434a601-794e-47ce-9daa-d9082f7de988" width="80%">
+
 - Jaipur, Lucknow, and Surat emerge as the top-performing cities in terms of trip volume, whereas Visakhapatnam, Coimbatore, and Mysore register the lowest trip counts.  
 
 ### 2. Average Fare per Trip by City  
