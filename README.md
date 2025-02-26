@@ -96,7 +96,7 @@ By leveraging these insights, GoodCabs can scale its operations while upholding 
 
 ### 1. City-Level Fare and Trip Summary  
 
-Read the [Query-1 here](https://github.com/1.sql).  
+Read the [Query-1 here](https://github.com/shriyansh945/Goodcabs-Performace-Analytics/blob/main/AD-HOC%20SQL%20Queries/Q1.sql).  
 
 <img src="https://github.com/user-attachments/assets/0c864ad4-3e63-407b-b9a6-86b64195a532" width="70%">  
 
@@ -104,7 +104,7 @@ Read the [Query-1 here](https://github.com/1.sql).
 
 ### 2. Monthly City-Level Trips vs. Target Performance  
 
-Read the [Query-2 here](https://github.com/l).  
+Read the [Query-2 here](https://github.com/shriyansh945/Goodcabs-Performace-Analytics/blob/main/AD-HOC%20SQL%20Queries/Q2.sql).  
 
 <img src="https://github.com/user-attachments/assets/843e60bc-5adf-4034-84bf-646d038b6df8" width="70%">  
 
@@ -112,7 +112,7 @@ Read the [Query-2 here](https://github.com/l).
 
 ### 3. Repeat Passenger Trip Frequency by City  
 
-Read the [Query-3 here](https://github.com/g.sql).  
+Read the [Query-3 here](https://github.com/shriyansh945/Goodcabs-Performace-Analytics/blob/main/AD-HOC%20SQL%20Queries/Q3.sql).  
 
 <img src="https://github.com/user-attachments/assets/6ccff61b-9dff-408b-a2d1-bcd6161abb5a" width="70%">  
 
@@ -120,7 +120,7 @@ Read the [Query-3 here](https://github.com/g.sql).
 
 - ### 4. Cities with the Highest and Lowest New Passengers  
 
-Read the [Query-4 here](https://github.comB4.sql).  
+Read the [Query-4 here](https://github.com/shriyansh945/Goodcabs-Performace-Analytics/blob/main/AD-HOC%20SQL%20Queries/Q4.sql).  
 
 <img src="https://github.com/user-attachments/assets/e4ebf188-4d07-4a0b-a4dc-5ebb67fdba73" width="48%">  
 
@@ -128,15 +128,15 @@ Read the [Query-4 here](https://github.comB4.sql).
 
 ### 5. Peak Revenue Month for Each City  
 
-Read the [Query-5 here](https://github.csql).  
+Read the [Query-5 here](https://github.com/shriyansh945/Goodcabs-Performace-Analytics/blob/main/AD-HOC%20SQL%20Queries/Q5.sql).  
 
 <img src="https://github.com/user-attachments/assets/5d7bac13-cc07-47cb-92a2-80a363efdd5e" width="68%">  
 
 - The analysis highlights the highest revenue month for each city. **Jaipur peaks at ₹7.75 million in February (21%)**, alongside Kochi, Chandigarh, and Lucknow. Visakhapatnam, Surat, Vadodara, and Coimbatore see revenue highs in April, while Indore, Mysore, and Kochi reach their maximum earnings in May.  
 
-### Repeat Passenger Rate Analysis
+### 6. Repeat Passenger Rate Analysis
 
-Read the [Query-6.1 here](https://github.B6.1.sql).
+Read the [Query-6 here](https://github.com/shriyansh945/Goodcabs-Performace-Analytics/blob/main/AD-HOC%20SQL%20Queries/Q6.sql).
 
 <img src="https://github.com/user-attachments/assets/7bacea47-9b32-4196-9e9a-e44d58ec7e19" width="70%">
 
