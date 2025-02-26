@@ -1,6 +1,5 @@
 # Goodcabs-Performace-Analytics
 
-LINK FOR LIVE DASHBOARD-->https://google.com
 
 <h2 align="center">
   <br>
